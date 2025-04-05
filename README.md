@@ -36,3 +36,6 @@ This will generate a calendar heatmap of your shell activity and save it as bash
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Example
+![Example output](heatmap.png]
