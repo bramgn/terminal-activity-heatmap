@@ -1,6 +1,9 @@
 # Terminal Activity Heatmap
 This project generates a calendar-style heatmap of terminal activity.
 
+## Example
+![Example output](heatmap.png)
+
 ## Background
 This project generates a calendar-style heatmap of terminal activity, based on a history file created by a shell like Bash. It visualizes the frequency of commands executed on different days, helping you track your terminal usage over time.
 
@@ -37,5 +40,3 @@ This will generate a calendar heatmap of your shell activity and save it as bash
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Example
-![Example output](heatmap.png)
